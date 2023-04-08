@@ -2,7 +2,7 @@
 .theme-dark {
   --header-primary: var(--text-normal);
   --header-secondary: var(--text-muted);
-  --text-normal: rgb(200,200,255);
+  --text-normal: rgb(200,200,254);
   --text-muted: rgb(200,200,255);
   --text-positive: hsl(89, calc(var(--saturation-factor, 1)*51%),61%) !important;
   --text-warning: hsl(39, calc(var(--saturation-factor, 1)*66%), 64%) !important;
