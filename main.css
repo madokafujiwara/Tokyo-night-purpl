@@ -54,8 +54,7 @@
 
 /* ~~~~		  		General							~~~~ */
 .theme-dark ::selection {
-  background-color: #515c7e40;
-  color: #a9b1d6;
+  // --background-tertiary-alt: url(https://i.pinimg.com/564x/1e/c2/93/1ec29332c123901329a8a6b5c0f4c1d2.jpg);
 }
 .theme-light ::selection {
   // --background-tertiary-alt: url(https://i.pinimg.com/564x/1e/c2/93/1ec29332c123901329a8a6b5c0f4c1d2.jpg);
