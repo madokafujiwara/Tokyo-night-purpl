@@ -2,8 +2,8 @@
 .theme-dark {
   --header-primary: var(--text-normal);
   --header-secondary: var(--text-muted);
-  --text-normal: #d3b1e6;
-  --text-muted: #715689;
+  --text-normal: rgb(200,200,255);
+  --text-muted: rgb(200,200,255);
   --text-positive: hsl(89, calc(var(--saturation-factor, 1)*51%),61%) !important;
   --text-warning: hsl(39, calc(var(--saturation-factor, 1)*66%), 64%) !important;
   --text-danger: hsl(349, calc(var(--saturation-factor, 1)*89%), 72%) !important;
